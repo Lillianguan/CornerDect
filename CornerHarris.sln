@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CornerHarris", "CornerHarris\CornerHarris.vcxproj", "{F8C9ACBE-98EF-482A-9149-7422F85B10AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8C9ACBE-98EF-482A-9149-7422F85B10AB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F8C9ACBE-98EF-482A-9149-7422F85B10AB}.Debug|Win32.Build.0 = Debug|Win32
+		{F8C9ACBE-98EF-482A-9149-7422F85B10AB}.Release|Win32.ActiveCfg = Release|Win32
+		{F8C9ACBE-98EF-482A-9149-7422F85B10AB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

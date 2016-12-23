@@ -1,0 +1,16 @@
+/ipch/
+/Debug/
+*.aps
+*.idb
+*.exe
+*.log
+*.obj
+*.pch
+*.pdb
+*.sdf
+*.suo
+*.tlog
+*.user
+*.manifest
+*.lastbuildstate
+*.res
